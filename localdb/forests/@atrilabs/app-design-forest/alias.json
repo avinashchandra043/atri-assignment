@@ -1,0 +1,15 @@
+{
+  "Accordion": 1,
+  "Div": 102,
+  "Image": 61,
+  "Flex": 105,
+  "TextBox": 104,
+  "Breadcrumb": 1,
+  "Link": 10,
+  "Menu": 3,
+  "Icon": 1,
+  "Button": 2,
+  "UnorderedList": 3,
+  "Dropdown": 2,
+  "VerticalMenu": 1
+}

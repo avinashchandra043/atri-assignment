@@ -1,0 +1,128 @@
+a {
+  text-decoration: none;
+  color: black;
+}
+a:hover {
+  color: gray;
+}
+.p-Home.Menu3 {
+  display: none;
+}
+.p-Home.TextBox14,
+.p-Home.TextBox28,
+.p-Home.TextBox31,
+.p-Home.ServicesBox,
+.p-Home.TextBox35,
+.p-Home.TextBox55,
+.p-Home.TextBox57,
+.p-Home.TextBox61,
+.p-Home.TextBox63,
+.p-Home.TextBox66,
+.p-Home.TextBox78,
+.p-Home.TextBox80 {
+  background-image: linear-gradient(
+    108deg,
+    #b16cea 8%,
+    #ff5e69 40%,
+    #ff8a56 77%,
+    #ffa84b 91%
+  );
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+}
+.p-Home.navMenu {
+  display: none;
+  box-shadow: rgb(0 0 0 / 20%) 12px 12px 50px 0px;
+}
+@media only screen and (max-width: 1230px) {
+  .p-Home.TextBox14,
+  .p-Home.TextBox13 {
+    font-size: 68px;
+  }
+}
+@media only screen and (max-width: 1110px) {
+  .p-Home.TextBox14,
+  .p-Home.TextBox13 {
+    font-size: 60px;
+  }
+}
+@media only screen and (max-width: 970px) {
+  .p-Home.Menu3 {
+    display: block;
+  }
+  .p-Home.Flex6 {
+    display: none;
+  }
+  .p-Home.Div18 {
+    width: 100%;
+  }
+  .p-Home.Flex13 {
+    /* flex-direction: column; */
+    /* align-items: center; */
+    justify-content: center;
+  }
+  .p-Home.TextBox14,
+  .p-Home.TextBox13 {
+    font-size: 68px;
+  }
+  .p-Home.TextBox19,
+  .p-Home.TextBox20,
+  .p-Home.TextBox30,
+  .p-Home.TextBox29,
+  .p-Home.TextBox36,
+  .p-Home.TextBox33,
+  .p-Home.TextBox79,
+  .p-Home.TextBox67,
+  .p-Home.TextBox77,
+  .p-Home.TextBox78 {
+    font-size: 50px;
+  }
+  .p-Home.Image22 {
+    width: 180px;
+  }
+}
+@media only screen and (max-width: 770px) {
+  .p-Home.TextBox14,
+  .p-Home.TextBox13 {
+    font-size: 50px;
+  }
+  .p-Home.TextBox15 {
+    font-size: 19px;
+  }
+  .p-Home.TextBox19,
+  .p-Home.TextBox20,
+  .p-Home.TextBox30,
+  .p-Home.TextBox29,
+  .p-Home.TextBox36,
+  .p-Home.TextBox33,
+  .p-Home.TextBox79,
+  .p-Home.TextBox67,
+  .p-Home.TextBox77,
+  .p-Home.TextBox78 {
+    font-size: 40px;
+  }
+  .p-Home.Image22 {
+    width: 150px;
+  }
+}
+@media only screen and (max-width: 488px) {
+  .p-Home.TextBox14,
+  .p-Home.TextBox13 {
+    font-size: 40px;
+  }
+  .p-Home.TextBox19,
+  .p-Home.TextBox20,
+  .p-Home.TextBox30,
+  .p-Home.TextBox29,
+  .p-Home.TextBox36,
+  .p-Home.TextBox33,
+  .p-Home.TextBox79,
+  .p-Home.TextBox67,
+  .p-Home.TextBox77,
+  .p-Home.TextBox78 {
+    font-size: 36px;
+  }
+  .p-Home.Image22 {
+    width: 100px;
+  }
+}
